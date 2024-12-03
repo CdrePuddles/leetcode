@@ -48,17 +48,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Hash Table
 |  |
@@ -175,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CdrePuddles/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
