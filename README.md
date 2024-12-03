@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/CdrePuddles/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CdrePuddles/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/CdrePuddles/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/CdrePuddles/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CdrePuddles/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
