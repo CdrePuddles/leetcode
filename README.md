@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/CdrePuddles/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/CdrePuddles/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
@@ -119,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/CdrePuddles/leetcode/tree/master/1916-find-center-of-star-graph) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/CdrePuddles/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
