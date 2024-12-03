@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Tree
 |  |
@@ -34,9 +36,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
