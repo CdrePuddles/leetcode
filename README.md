@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/CdrePuddles/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CdrePuddles/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
