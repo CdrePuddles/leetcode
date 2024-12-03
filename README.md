@@ -106,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/CdrePuddles/leetcode/tree/master/0058-length-of-last-word) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/CdrePuddles/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
