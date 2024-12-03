@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -197,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
