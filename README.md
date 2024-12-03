@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/CdrePuddles/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
