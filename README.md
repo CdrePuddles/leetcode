@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
