@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/CdrePuddles/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/CdrePuddles/leetcode/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/CdrePuddles/leetcode/tree/master/0476-number-complement) |
 ## Memoization
 |  |
 | ------- |
