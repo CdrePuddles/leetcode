@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Quickselect
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Graph
 |  |
 | ------- |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CdrePuddles/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
