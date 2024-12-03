@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/CdrePuddles/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
 ## Recursion
 |  |
 | ------- |
