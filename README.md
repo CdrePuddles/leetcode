@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/CdrePuddles/leetcode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CdrePuddles/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/CdrePuddles/leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/CdrePuddles/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -156,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
