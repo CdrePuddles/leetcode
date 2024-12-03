@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CdrePuddles/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/CdrePuddles/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/CdrePuddles/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
