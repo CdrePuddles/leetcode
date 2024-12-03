@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/CdrePuddles/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/CdrePuddles/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CdrePuddles/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Graph
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
