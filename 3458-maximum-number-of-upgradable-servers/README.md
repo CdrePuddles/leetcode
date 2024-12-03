@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-upgradable-servers">3458. Maximum Number of Upgradable Servers</a></h2><h3>Medium</h3><hr><p>You have <code>n</code> data centers and need to upgrade their servers.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-upgradable-servers">Maximum Number of Upgradable Servers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have <code>n</code> data centers and need to upgrade their servers.</p>
 
 <p>You are given four arrays <code>count</code>, <code>upgrade</code>, <code>sell</code>, and <code>money</code> of length <code>n</code>, which show:</p>
 
