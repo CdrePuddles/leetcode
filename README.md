@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/CdrePuddles/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/CdrePuddles/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CdrePuddles/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/CdrePuddles/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
