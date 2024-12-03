@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/CdrePuddles/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
