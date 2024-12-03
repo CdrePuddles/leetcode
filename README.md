@@ -102,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/CdrePuddles/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
