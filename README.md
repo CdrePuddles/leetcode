@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/CdrePuddles/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/CdrePuddles/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/CdrePuddles/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
+| [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Binary Search
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
