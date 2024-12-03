@@ -7,7 +7,6 @@ public:
                 return false;
 
             } else if (loop == 1) {
-                cout << inc << endl;
                 inc = 0;
 
             } else {
