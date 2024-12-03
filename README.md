@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
+| [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Graph
 |  |
