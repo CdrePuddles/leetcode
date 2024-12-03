@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/CdrePuddles/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/CdrePuddles/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/CdrePuddles/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/CdrePuddles/leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/CdrePuddles/leetcode/tree/master/0476-number-complement) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/CdrePuddles/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Memoization
 |  |
 | ------- |
