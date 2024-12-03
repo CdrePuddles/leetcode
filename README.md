@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 ## Graph
 |  |
@@ -226,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/CdrePuddles/leetcode/tree/master/1203-print-in-order) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
