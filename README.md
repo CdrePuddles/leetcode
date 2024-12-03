@@ -27,14 +27,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/CdrePuddles/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Hash Table
 |  |
@@ -90,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CdrePuddles/leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CdrePuddles/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
