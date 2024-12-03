@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CdrePuddles/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CdrePuddles/leetcode/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1289-day-of-the-week](https://github.com/CdrePuddles/leetcode/tree/master/1289-day-of-the-week) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/CdrePuddles/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CdrePuddles/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
