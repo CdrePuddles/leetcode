@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CdrePuddles/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2649-count-total-number-of-colored-cells](https://github.com/CdrePuddles/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Binary Search
 |  |
