@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/CdrePuddles/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/CdrePuddles/leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/CdrePuddles/leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Math
 |  |
