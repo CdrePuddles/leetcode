@@ -2,7 +2,7 @@ class Solution {
     public int romanToInt(String s) {
         int number = 0;
         
-        Map<Character, Integer> numerals = new TreeMap<>();
+        Map<Character, Integer> numerals = new HashMap<>();
         numerals.put('I', 1);
         numerals.put('V', 5);
         numerals.put('X', 10);
