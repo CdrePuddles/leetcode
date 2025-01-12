@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CdrePuddles/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2354-minimum-health-to-beat-game](https://github.com/CdrePuddles/leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CdrePuddles/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/CdrePuddles/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/CdrePuddles/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2354-minimum-health-to-beat-game](https://github.com/CdrePuddles/leetcode/tree/master/2354-minimum-health-to-beat-game) |
 ## Counting Sort
 |  |
 | ------- |
