@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/CdrePuddles/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CdrePuddles/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/CdrePuddles/leetcode/tree/master/0575-distribute-candies) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/CdrePuddles/leetcode/tree/master/0520-detect-capital) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CdrePuddles/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/CdrePuddles/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -329,4 +333,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CdrePuddles/leetcode/tree/master/0014-longest-common-prefix) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 <!---LeetCode Topics End-->
