@@ -2,13 +2,14 @@
 func twoSum(nums []int, target int) []int {
     
     dict := make(map[int]int)
+    var sum int
 
     for i := 0; i < len(nums); i++ {
         dict[nums[i]] = i
     }
     
     for i := 0; i < len(nums); i++ {
-        sum := target - nums[i]
+        sum = target - nums[i]
         _, ok := dict[sum]
         
         if (ok && dict[sum] != i) {
