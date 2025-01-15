@@ -6,20 +6,21 @@
  * }
  */
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
-    testA := headA
-    var testB *ListNode
-    for testA != nil {
+    testA, testB := headA, headB
+    
+    for testA != testB {
         
-        testB = headB
-        for testB != nil {
-            if testA.Val == testB.Val {
-                if testA == testB {
-                    return testB
-                }
-            }
-            testB = testB.Next
+        if testA != nil {
+            testA = testA.Next
+        } else {
+            testA = headB
         }
-        testA = testA.Next
+
+        if testB != nil {
+            testB = testB.Next
+        } else {
+            testB = headA
+        }
     }
-    return nil
+    return testA
 }
