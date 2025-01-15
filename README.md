@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CdrePuddles/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CdrePuddles/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CdrePuddles/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CdrePuddles/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/CdrePuddles/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
