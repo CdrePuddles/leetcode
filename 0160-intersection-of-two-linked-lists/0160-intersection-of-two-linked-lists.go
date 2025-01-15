@@ -7,10 +7,10 @@
  */
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
     testA := headA
-
+    var testB *ListNode
     for testA != nil {
         
-        testB := headB
+        testB = headB
         for testB != nil {
             if testA == testB {
                 return testB
