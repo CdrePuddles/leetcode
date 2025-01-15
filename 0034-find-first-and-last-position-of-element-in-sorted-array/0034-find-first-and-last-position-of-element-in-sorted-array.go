@@ -7,7 +7,7 @@ func searchRange(nums []int, target int) []int {
  }
 
  for lo <= hi {
-    var mid int = (lo + hi) / 2
+    mid := (lo + hi) / 2
 
     if nums[mid] == target {
         lo = mid
@@ -29,7 +29,6 @@ func searchRange(nums []int, target int) []int {
         lo = mid + 1
     } else {
         hi = mid - 1
-
     }
  }  
     return []int {-1, -1}
