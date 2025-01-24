@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CdrePuddles/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2401-count-asterisks](https://github.com/CdrePuddles/leetcode/tree/master/2401-count-asterisks) |
 | [3312-number-of-changing-keys](https://github.com/CdrePuddles/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Graph
 |  |
