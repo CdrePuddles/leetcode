@@ -7,20 +7,23 @@ func groupAnagrams(strs []string) [][]string {
     dict := make(map[string][]string)
     var ret [][]string
     var wrd string
+    var wrd2 string
+    var wrd3 []string
+
 
     for _, word := range strs {
         wrd = word
-        word := strings.Split(word, "")
-        sort.Strings(word)
-        wr2 := strings.Join(word, "")
-        _, ok := dict[wr2]
+        wrd3 = strings.Split(word, "")
+        sort.Strings(wrd3)
+        wrd2 = strings.Join(wrd3, "")
+        _, ok := dict[wrd2]
 
         if !ok {
             var arr []string
-            dict[wr2] = arr
+            dict[wrd2] = arr
         } 
 
-        dict[wr2] = append(dict[wr2], wrd)
+        dict[wrd2] = append(dict[wrd2], wrd)
     }
 
     for _, v := range dict {
