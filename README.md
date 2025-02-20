@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/CdrePuddles/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/CdrePuddles/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CdrePuddles/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/CdrePuddles/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/CdrePuddles/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CdrePuddles/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2401-count-asterisks](https://github.com/CdrePuddles/leetcode/tree/master/2401-count-asterisks) |
