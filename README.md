@@ -373,4 +373,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/CdrePuddles/leetcode/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/CdrePuddles/leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
