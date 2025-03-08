@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/CdrePuddles/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/CdrePuddles/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/CdrePuddles/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1894-merge-strings-alternately](https://github.com/CdrePuddles/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CdrePuddles/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2401-count-asterisks](https://github.com/CdrePuddles/leetcode/tree/master/2401-count-asterisks) |
 | [3312-number-of-changing-keys](https://github.com/CdrePuddles/leetcode/tree/master/3312-number-of-changing-keys) |
