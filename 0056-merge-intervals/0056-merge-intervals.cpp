@@ -9,8 +9,6 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> ret;
         sort(intervals.begin(), intervals.end(), cmp);
-        cout << "lmao" << endl;
-
         vector<int> temp = intervals[0];
 
 
