@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CdrePuddles/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2350-find-closest-number-to-zero](https://github.com/CdrePuddles/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2354-minimum-health-to-beat-game](https://github.com/CdrePuddles/leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2386-min-max-game](https://github.com/CdrePuddles/leetcode/tree/master/2386-min-max-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
