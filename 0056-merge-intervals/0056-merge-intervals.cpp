@@ -10,15 +10,16 @@ public:
         vector<vector<int>> ret;
         sort(intervals.begin(), intervals.end(), cmp);
         vector<int> temp = intervals[0];
+        vector<int> innerTemp;
 
 
         for (int i = 1; i < intervals.size(); i++) {
-            cout << i << endl;
-            if (intervals[i][0] <= temp[1] && intervals[i][0] >= temp[0]) {
-                temp[1] = max(temp[1], intervals[i][1]);
+            innerTemp = intervals[i];
+            if (innerTemp[0] <= temp[1] && innerTemp[0] >= temp[0]) {
+                temp[1] = max(temp[1], innerTemp[1]);
             } else {
                 ret.push_back(temp);
-                temp = intervals[i];
+                temp = innerTemp;
             }
         }
 
