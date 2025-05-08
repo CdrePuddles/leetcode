@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CdrePuddles/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/CdrePuddles/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/CdrePuddles/leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/CdrePuddles/leetcode/tree/master/0162-find-peak-element) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/CdrePuddles/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/CdrePuddles/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/CdrePuddles/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CdrePuddles/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -408,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1390-average-selling-price](https://github.com/CdrePuddles/leetcode/tree/master/1390-average-selling-price) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/CdrePuddles/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
