@@ -9,7 +9,8 @@ func maxArea(height []int) int {
             ret = max(ret, min(height[l], height[r]) * (r-l))
             r--
         }
-                    ret = max(ret, min(height[l], height[r]) * (r-l))
+        
+        ret = max(ret, min(height[l], height[r]) * (r-l))
 
     }
 
