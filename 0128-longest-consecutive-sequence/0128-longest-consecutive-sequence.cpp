@@ -1,32 +1,39 @@
-#include <map>
+#include <unordered_set>
 
 class Solution {
 public:
+    // unordered_map<int, int> parent;
+
+    // int find(int x) {
+    //     if (parent[x] != x) {
+    //         return find(parent[x]);
+    //     } else {
+    //         return x;
+    //     }
+    // }
+
+    // void unionFunc(int x, int y) {
+    //     parent[find(y)] = find(x);
+    // }
+
     int longestConsecutive(vector<int>& nums) {
-        map<int, int> dict;
-
-        for (int num : nums) {
-            dict[num]++;
-        }
-
         int ret = 0;
         int count = 0;
-        int prev = 0;
+        unordered_set<int> parent;
+        //unordered_map<int, vector<int>> sequences;
 
-        for (auto val : dict) {
-            ret = max(ret, count);
+        parent = unordered_set(nums.begin(), nums.end());
 
-            if (val.first == prev + 1) {
-                count++;
-            } else {
-                count = 1;
-            }
-            prev = val.first;
-
+        for (int num : parent) {
+            if (parent.find(num - 1) == parent.end()) {
+                count = 0;
+                while (parent.find(num + count) != parent.end()) {
+                    count++;
+                }
+                ret = max(ret, count);
+            } 
         }
 
-        ret = max(ret, count);
-
         return ret;
-    }
+    }   
 };
