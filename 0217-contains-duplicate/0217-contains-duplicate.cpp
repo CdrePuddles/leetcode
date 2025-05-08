@@ -6,10 +6,10 @@ public:
         unordered_map<int, int> dict;
 
          for (int num : nums) {
-            if (dict.find(num) != dict.end()) {
+            dict[num]++;
+            if (dict[num] > 1) {
                 return true;
             }
-            dict[num]++;
          }
 
         return false;
