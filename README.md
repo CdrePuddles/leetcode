@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/CdrePuddles/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/CdrePuddles/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CdrePuddles/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CdrePuddles/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/CdrePuddles/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CdrePuddles/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/CdrePuddles/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CdrePuddles/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/CdrePuddles/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/CdrePuddles/leetcode/tree/master/0344-reverse-string) |
