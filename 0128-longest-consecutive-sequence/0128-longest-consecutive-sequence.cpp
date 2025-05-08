@@ -19,10 +19,8 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int ret = 0;
         int count = 0;
-        unordered_set<int> parent;
+        unordered_set<int> parent(nums.begin(), nums.end());
         //unordered_map<int, vector<int>> sequences;
-
-        parent = unordered_set(nums.begin(), nums.end());
 
         for (int num : parent) {
             if (parent.find(num - 1) == parent.end()) {
