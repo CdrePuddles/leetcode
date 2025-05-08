@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/CdrePuddles/leetcode/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/CdrePuddles/leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/CdrePuddles/leetcode/tree/master/0520-detect-capital) |
+| [0782-jewels-and-stones](https://github.com/CdrePuddles/leetcode/tree/master/0782-jewels-and-stones) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
