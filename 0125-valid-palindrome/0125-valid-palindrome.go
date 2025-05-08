@@ -1,5 +1,4 @@
 
-import "fmt"
 func isPalindrome(s string) bool {
     size := len(s)
     j := size-1
@@ -8,7 +7,6 @@ func isPalindrome(s string) bool {
 
     for i := 0; i < j; i++ {
         for ; i < j && !((s[i] >= 97 && s[i] <= 122) || (s[i] >= 65 && s[i] <= 90) || (s[i] >= 48 && s[i] <= 57)); i++ {
-            fmt.Println(s[i])
         }
 
         for ; j > i && !((s[j] >= 97 && s[j] <= 122) || (s[j] >= 65 && s[j] <= 90) || (s[j] >= 48 && s[j] <= 57)); j-- {
