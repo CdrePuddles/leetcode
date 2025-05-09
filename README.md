@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/CdrePuddles/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/CdrePuddles/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/CdrePuddles/leetcode/tree/master/0682-baseball-game) |
 | [0879-maximize-distance-to-closest-person](https://github.com/CdrePuddles/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [1019-squares-of-a-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/CdrePuddles/leetcode/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/CdrePuddles/leetcode/tree/master/0682-baseball-game) |
 | [2386-min-max-game](https://github.com/CdrePuddles/leetcode/tree/master/2386-min-max-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Geometry
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/CdrePuddles/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CdrePuddles/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/CdrePuddles/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/CdrePuddles/leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
