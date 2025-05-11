@@ -11,20 +11,20 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        vector<ListNode*> linked;
-        
-        ListNode* headPtr = head;
-
-        while (headPtr != nullptr) {
-            linked.push_back(headPtr);
-            headPtr = headPtr->next;
+        if (head == nullptr || head->next == nullptr) {
+            return head;
         }
 
-        if (linked.size()) {
-            return linked[linked.size()/2];
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        return nullptr;
+        return slow;
+
         
     }
 };
