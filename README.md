@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1390-average-selling-price](https://github.com/CdrePuddles/leetcode/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/CdrePuddles/leetcode/tree/master/1480-movie-rating) |
 ## Union Find
 |  |
 | ------- |
