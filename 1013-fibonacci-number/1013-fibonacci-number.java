@@ -6,8 +6,6 @@ class Solution {
         int old = 0;
         int newy = 1;
         int hold = old;
-        int ans = 0;
-
 
         for (int count = 1; count < n; count++) {
             //ans = old + newy;
