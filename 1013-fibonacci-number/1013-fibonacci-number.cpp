@@ -2,17 +2,21 @@
 class Solution {
 public:
     int fib(int n) {
-        unordered_map<int, int> fibMap;
-        fibMap[0] = 0;
-        fibMap[1] = 1;
+        if (!n) {
+            return n;
+        }
+        int a = 0;
+        int b = 1;
+        int c = 0;
 
         for (int i = 2; i <= n; i++) {
-            if (fibMap.find(i) != fibMap.end()) {
-            } else {
-                fibMap[i] = fibMap[i-1] + fibMap[i-2];
-            }
+            c = a+b;
+
+            a = b;
+            b = c;
         }
 
-        return fibMap[n];
+        return b;
+
     }
 };
