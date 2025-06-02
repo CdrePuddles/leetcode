@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/CdrePuddles/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CdrePuddles/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/CdrePuddles/leetcode/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/CdrePuddles/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/CdrePuddles/leetcode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/CdrePuddles/leetcode/tree/master/0782-jewels-and-stones) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
