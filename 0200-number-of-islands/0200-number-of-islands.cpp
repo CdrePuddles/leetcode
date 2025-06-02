@@ -42,7 +42,6 @@ private:
                 coord = to_string(y) + "," + to_string(x);
 
                 if (y >= 0 && y < rows && x >= 0 && x < cols && grid[y][x] == '1' && visited.find(coord) == visited.end()) {
-                    cout << coord << endl;
                     visited.insert(coord);
                     q.push({y, x});
                 }
