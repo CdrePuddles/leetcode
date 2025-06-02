@@ -30,7 +30,7 @@ private:
         queue<pair<int, int>> q;
         string coord;
 
-        q.push(make_pair(i,j));
+        q.push({i,j});
 
         while (!(q.empty())) {
             auto[row, col] = q.front();
@@ -44,7 +44,7 @@ private:
                 if (y >= 0 && y < rows && x >= 0 && x < cols && grid[y][x] == '1' && visited.find(coord) == visited.end()) {
                     cout << coord << endl;
                     visited.insert(coord);
-                    q.push(make_pair(y, x));
+                    q.push({y, x});
                 }
             }
 
