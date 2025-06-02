@@ -1,25 +1,25 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int l = INT_MAX;
-        int r = INT_MIN;
-        int lcur = 0;
-        int rcur = 0;
-        int price = 0;
+        int buy = INT_MAX;
+        int sell = INT_MIN;
+        int lcurr = 0;
+        int rcurr = 0;
         int ret = 0;
 
         for (int i = 0; i < prices.size(); i++) {
-            price = prices[i];
-            if (price <= l) {
-                l = price;
-                lcur = i;
+            int price = prices[i];
+            if (price <= buy) {
+                lcurr = i;
+                buy = price;
             } else {
-                r = price;
-                rcur = i;
+                rcurr = i;
+                sell = price;
             }
-            if (lcur < rcur) {
-                ret = max(ret, r - l);
-            }
+
+            if (lcurr < rcurr) {
+                ret = max(ret, sell - buy);
+            } 
         }
 
         return ret;
