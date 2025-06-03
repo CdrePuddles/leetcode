@@ -7,21 +7,20 @@ public:
             return 1;
         }
 
-        long long ret;
         long long sum = 0;
-        sort(milestones.begin(), milestones.end());
-
-        cout << milestones[0] << endl;
+        long long hival = 0;
+        long long val = 0;
 
         for (int i = 0; i < sz; i++) {
-            
-            sum += milestones[i];
+            val = milestones[i];
+            sum += val;
+            hival = max(hival, val);
         }
 
-        if (sum - milestones[sz-1] >= milestones[sz-1]) {
+        if (sum -hival >= hival) {
             return sum;
         } else {
-            return (sum - milestones[sz-1])*2+1;
+            return (sum - hival)*2+1;
         }
     }
 };
