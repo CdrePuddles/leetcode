@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/CdrePuddles/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1281-can-make-palindrome-from-substring](https://github.com/CdrePuddles/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CdrePuddles/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CdrePuddles/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CdrePuddles/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/CdrePuddles/leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/CdrePuddles/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CdrePuddles/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
@@ -463,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CdrePuddles/leetcode/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 <!---LeetCode Topics End-->
