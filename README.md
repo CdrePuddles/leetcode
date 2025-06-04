@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CdrePuddles/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CdrePuddles/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/CdrePuddles/leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2350-find-closest-number-to-zero](https://github.com/CdrePuddles/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2354-minimum-health-to-beat-game](https://github.com/CdrePuddles/leetcode/tree/master/2354-minimum-health-to-beat-game) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1433-encrypt-and-decrypt-strings](https://github.com/CdrePuddles/leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1547-destination-city](https://github.com/CdrePuddles/leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/CdrePuddles/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CdrePuddles/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/CdrePuddles/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/CdrePuddles/leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CdrePuddles/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/CdrePuddles/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CdrePuddles/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/CdrePuddles/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
