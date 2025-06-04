@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/CdrePuddles/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/CdrePuddles/leetcode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/CdrePuddles/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/CdrePuddles/leetcode/tree/master/0812-rotate-string) |
 | [1272-invalid-transactions](https://github.com/CdrePuddles/leetcode/tree/master/1272-invalid-transactions) |
 | [1281-can-make-palindrome-from-substring](https://github.com/CdrePuddles/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/CdrePuddles/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CdrePuddles/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/CdrePuddles/leetcode/tree/master/0812-rotate-string) |
 ## Radix Sort
 |  |
 | ------- |
