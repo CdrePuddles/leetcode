@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/CdrePuddles/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/CdrePuddles/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CdrePuddles/leetcode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/CdrePuddles/leetcode/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0738-monotone-increasing-digits](https://github.com/CdrePuddles/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1013-fibonacci-number](https://github.com/CdrePuddles/leetcode/tree/master/1013-fibonacci-number) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CdrePuddles/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/CdrePuddles/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CdrePuddles/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/CdrePuddles/leetcode/tree/master/0367-valid-perfect-square) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CdrePuddles/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2586-longest-square-streak-in-an-array](https://github.com/CdrePuddles/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
