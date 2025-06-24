@@ -1,49 +1,45 @@
-#include <set>
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        // bfs approach
-        set<string> visited;
-        string coord;
-        int islands = 0;
-        int rows = grid.size();
-        int cols = grid[0].size();
-        vector<pair<int, int>> directions = {{1,0}, {-1,0}, {0, 1}, {0, -1}};
+        int ret = 0;
+        set<pair<int, int>> visited;
+        int ySize = grid.size();
+        int xSize = grid[0].size();
+        vector<pair<int, int>> directions = {{0, -1}, {1, 0}, {0, 1}, {-1, 0}};
+        pair<int, int> val;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                coord = to_string(i) + "," + to_string(j);
-                if (grid[i][j] == '1' && visited.find(coord) == visited.end()) {
-                    visited.insert(coord);
-                    islands++;
-
-                    bfs(grid, i, j, rows, cols, directions, visited);
+        for (int i = 0; i < ySize; i++) {
+            for (int j = 0; j < xSize; j++) {
+                val = {j, i};
+                if (visited.find(val) == visited.end() && grid[i][j] == '1') {
+                    //cout << "hi mom" << endl;
+                    ret++;
+                    visited.insert(val);
+                    mapQueue(j, i, xSize, ySize, directions, visited, grid);
                 }
             }
         }
 
-        return islands;
+        return ret;
     }
 
-private:
-    void bfs(vector<vector<char>>& grid, int i, int j, int rows, int cols, vector<pair<int, int>> directions, set<string> &visited) {
-        queue<pair<int, int>> q;
-        string coord;
+    void mapQueue(int x, int y, int xSize, int ySize, vector<pair<int, int>> &directions, set<pair<int, int>> &visited, vector<vector<char>> &grid) {
+        queue<pair<int, int>> worklist;
+        worklist.push({x, y});
+        
 
-        q.push({i,j});
+        while (!worklist.empty()) {
+            pair<int, int> item = worklist.front();
+            worklist.pop();    
 
-        while (!(q.empty())) {
-            auto[row, col] = q.front();
-            q.pop();
-
-            for (auto xy : directions) {
-                int y = row + xy.first;
-                int x = col + xy.second;
-                coord = to_string(y) + "," + to_string(x);
-
-                if (y >= 0 && y < rows && x >= 0 && x < cols && grid[y][x] == '1' && visited.find(coord) == visited.end()) {
-                    visited.insert(coord);
-                    q.push({y, x});
+            for (auto dir : directions) {
+                int first = item.first + dir.first;
+                int second = item.second + dir.second;
+                pair<int, int> val = {first, second};
+                if (first >= 0 && first < xSize && second >=0 && second < ySize && grid[second][first] == '1' && visited.find(val) == visited.end()) {
+                    //cout << val.first << " " << val.second << endl;
+                    worklist.push(val);
+                    visited.insert(val);
                 }
             }
 
