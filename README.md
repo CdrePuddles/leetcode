@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CdrePuddles/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/CdrePuddles/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/CdrePuddles/leetcode/tree/master/0682-baseball-game) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/CdrePuddles/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0879-maximize-distance-to-closest-person](https://github.com/CdrePuddles/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [1019-squares-of-a-sorted-array](https://github.com/CdrePuddles/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/CdrePuddles/leetcode/tree/master/1137-height-checker) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/CdrePuddles/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/CdrePuddles/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CdrePuddles/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/CdrePuddles/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/CdrePuddles/leetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2428-equal-row-and-column-pairs](https://github.com/CdrePuddles/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/CdrePuddles/leetcode/tree/master/0011-container-with-most-water) |
 | [0738-monotone-increasing-digits](https://github.com/CdrePuddles/leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/CdrePuddles/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/CdrePuddles/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CdrePuddles/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CdrePuddles/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
