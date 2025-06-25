@@ -3,12 +3,14 @@ class Solution:
         lo: int = 100000000
         hi: int = -1
         ret: int = 0
+        price: int = 0
         for i in range(len(prices)):
-            if prices[i] < lo:
-                lo = prices[i]
+            price = prices[i]
+            if price < lo:
+                lo = price
                 hi = -1
-            elif prices[i] > hi:
-                hi = prices[i]
+            elif price > hi:
+                hi = price
             ret = max(ret, hi-lo)
         return ret
             
