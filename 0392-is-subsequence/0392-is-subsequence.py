@@ -9,7 +9,7 @@ class Solution:
 
         for i in range(tsz):
             if cur == ssz:
-                break
+                return True
             if t[i] == s[cur]:
                 cur+=1
         return cur == ssz
