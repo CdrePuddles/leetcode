@@ -3,4 +3,9 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        s.reverse()
+        sz: int = len(s)-1
+        temp: str = ""
+        for i in range(len(s)//2):
+            temp = s[i]
+            s[i] = s[sz-i]
+            s[sz-i] = temp
