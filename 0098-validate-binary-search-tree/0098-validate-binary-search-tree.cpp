@@ -16,7 +16,6 @@ public:
         if (root == nullptr) {
             return true;
         } else if ((val = root->val) > lo && val < hi) {
-            cout << val << endl;
             return validBSTRecur(root->left, lo, val) && validBSTRecur(root->right, val, hi);
         } else {
             return false;
