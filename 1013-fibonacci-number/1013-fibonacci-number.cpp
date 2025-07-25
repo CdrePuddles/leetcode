@@ -1,22 +1,18 @@
-#include <unordered_map>
 class Solution {
 public:
     int fib(int n) {
-        if (!n) {
+        if (n < 2) {
             return n;
         }
-        int a = 0;
-        int b = 1;
-        int c = 0;
+
+        int ret = 0;
+        unordered_map<int, int> dict;
+        dict[0] = 0;
+        dict[1] = 1;   
 
         for (int i = 2; i <= n; i++) {
-            c = a+b;
-
-            a = b;
-            b = c;
+            dict[i] = dict[i-1] + dict[i-2];
         }
-
-        return b;
-
+        return dict[n];
     }
 };
